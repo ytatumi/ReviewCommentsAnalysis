@@ -6,10 +6,10 @@ positive impressions) and areas for improvement (factors of negative impressions
 The aim is to answer the questions below.
 
 
-● What kinds of words come up frequently in Google reviews for York Hospital?
-● What are the main factors that can drive reviewers' positive or negative impressions and
+- What kinds of words come up frequently in Google reviews for York Hospital?
+- What are the main factors that can drive reviewers' positive or negative impressions and
 review ratings?
-● What kinds of connections or relationships are there between keywords and Google
+- What kinds of connections or relationships are there between keywords and Google
 review ratings?
-● What kinds of words influence the machine learning model for predicting Google review
+- What kinds of words influence the machine learning model for predicting Google review
 ratings?
