@@ -13,3 +13,5 @@ review ratings?
 review ratings?
 - What kinds of words influence the machine learning model for predicting Google review
 ratings?
+
+Note: Python notebooks are best to view locally as they look very long in github preview.
